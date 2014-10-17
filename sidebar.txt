@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[rmn:home|Door43 (rmn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-rmn|d43-rmn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-rmn/archive/master.zip|d43-rmn.zip]]
+
+**Recent Changes**
+{{changes>ns = rmn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/rmn|Ethnologue data]]
+
